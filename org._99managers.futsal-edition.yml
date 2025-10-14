@@ -25,14 +25,14 @@ modules:
       # The game is pulled from GitHub
       - type: archive
         strip-components: 0
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.4.5/99managers-futsal-edition-linux.zip
-        sha256: 13fd62f0b3f4744e988c8fc55fa878467035a50e5772cd9c56bda4c37b0bda15
+        url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.4.6/99managers-futsal-edition-linux.zip
+        sha256: 2d673762dbdfc60710e542d220542dc345db83ea1940461ee29b40fb3c369f69
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/f35c9c9045da9faa3300f7635cc4ec34e3f168c3/flatpak/org._99managers.futsal-edition.desktop
         sha256: b7e3d43e462f9155b2c2a88d873017d309884f3a07456a7aa394766f446fb85c
       - type: file
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/6933a06f9c9dc570d6450bd7789edd8972e5eac8/flatpak/org._99managers.futsal-edition.appdata.xml
-        sha256: 57b60fb58a28b676087fb4d5c186a7172e7d9a254f07fd05c97ecf6ac0a2aeff
+        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/05f5dab51af45c7665cc480c08f4ece3b8edb926/flatpak/org._99managers.futsal-edition.appdata.xml
+        sha256: 4db097226b06fd9f72a42d46c9ef3386d016b19a62d5e58888f8258ec1794fef
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/b9162507667f0ab9aff437e318f861828a3ff0fa/flatpak/icon-256.png
         sha256: b369bb5f78f4abd21c2107d97f1f34c96a0cab15b6fb6c733df962e74c535e9f
