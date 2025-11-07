@@ -3,7 +3,7 @@ runtime: org.freedesktop.Platform
 runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 base: org.godotengine.godot.BaseApp
-base-version: '4.4'
+base-version: '4.5'
 command: godot-runner
 finish-args:
   - --share=ipc
@@ -25,14 +25,14 @@ modules:
       # The game is pulled from GitHub
       - type: archive
         strip-components: 0
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.4.7/99managers-futsal-edition-linux.zip
-        sha256: 0b424bbe76bb0a23704e093ef1af10529e5d14fa2af3e3bf9326d01941afd461
+        url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.5.0/99managers-futsal-edition-linux.zip
+        sha256: d719a793c4c713bc16824b42f0d7acf981a70c68fc7aa457e03d1c47a277fbab
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/f35c9c9045da9faa3300f7635cc4ec34e3f168c3/flatpak/org._99managers.futsal-edition.desktop
         sha256: b7e3d43e462f9155b2c2a88d873017d309884f3a07456a7aa394766f446fb85c
       - type: file
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/6d08d64ab5f2874846e534cb13916fd4ffb94b26/flatpak/org._99managers.futsal-edition.appdata.xml
-        sha256: 6c173797dd542f5ca113d51d94a909304cd46d7204404ea136420256dc767221
+        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/0464ec386a99fb5e35585a76149a0fba5aacd69c/flatpak/org._99managers.futsal-edition.appdata.xml
+        sha256: ce0fe0aa7db65ddc7df73c12fe2d06052ba1ab76fd09667a16704666f51dee58
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/b9162507667f0ab9aff437e318f861828a3ff0fa/flatpak/icon-256.png
         sha256: b369bb5f78f4abd21c2107d97f1f34c96a0cab15b6fb6c733df962e74c535e9f
