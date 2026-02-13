@@ -29,7 +29,7 @@ modules:
         sha256: ae7c6545272ae8aa6fb6f42eadd64c461248a44d58fd9ac9b80cea41d741a585
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/7c2ba2d92c76b0f70751dbc0187d7af59c7ae4a9/flatpak/org._99managers.futsal-edition.appdata.xml
-        sha256: 09d86468492caf3189993008d6813c9d823b2398bec2f2f2b8fbb72a812d3ee9
+        sha256: 0ffa2943c8d841b5238eca894f5af9e70db92a582152367a85572abd96e8fb53
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/f35c9c9045da9faa3300f7635cc4ec34e3f168c3/flatpak/org._99managers.futsal-edition.desktop
         sha256: b7e3d43e462f9155b2c2a88d873017d309884f3a07456a7aa394766f446fb85c
