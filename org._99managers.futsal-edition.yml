@@ -26,7 +26,7 @@ modules:
       - type: archive
         strip-components: 0
         url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.7.5/99managers-futsal-edition-linux.zip
-        sha256: c95413f22e38de0fff93a2c3abc293e3e9ecf097c11bdacf35adfc1a72760b42
+        sha256: c95413f22e38de0fff93a2c3abc293e3e9ecf097c11bdacf35adfc1a72760b44
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/a25531c225d642fc3cd3f22cceddbbbe72dcf4fe/flatpak/org._99managers.futsal-edition.appdata.xml
         sha256: 806a27e637ef152757bf8764c30377c93f68ebef80185a47dfff3f665c20a832
