@@ -10,6 +10,8 @@ finish-args:
   - --socket=x11 # <-- Godot needs X11
   - --socket=pulseaudio
   - --device=dri
+    # to load and save data packs and save games
+  - --filesystem=xdg-documents
 modules:
   - name: 99 Managers Futsal Edition
     buildsystem: simple
