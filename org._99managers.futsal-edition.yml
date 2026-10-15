@@ -46,7 +46,7 @@ modules:
           - aarch64
         strip-components: 0
         url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.9.3/99managers-futsal-edition-linux-arm64.zip
-        sha256: 6e37016dba89520102faf49dce9fcc6fd38107954688dcc1c3f35278c748aef2
+        sha256: cb18f6bd9899a6f2e60313e0fd20708953785119b865c2269308bd59feda6f84
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/beb8ca7c404f0958938a8de298b896f99c17fe71/flatpak/org._99managers.futsal-edition.appdata.xml
         sha256: 5c89c33363dd7b4e0afab01f04e978deafba3d2bc913718a681d99c7c70d5015
