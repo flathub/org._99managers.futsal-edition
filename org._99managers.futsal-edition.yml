@@ -40,19 +40,3 @@ modules:
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/7c2ba2d92c76b0f70751dbc0187d7af59c7ae4a9/flatpak/icon-256.png
         sha256: 097bd7da0eb479510a35d4f59c202efe90fb71cc0a7984988c11f5d09a8f4f82
-      # aarch64
-      - type: archive
-        only-arches:
-          - aarch64
-        strip-components: 0
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.9.3/99managers-futsal-edition-linux-arm64.zip
-        sha256: cb18f6bd9899a6f2e60313e0fd20708953785119b865c2269308bd59feda6f84
-      - type: file
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/beb8ca7c404f0958938a8de298b896f99c17fe71/flatpak/org._99managers.futsal-edition.appdata.xml
-        sha256: 5c89c33363dd7b4e0afab01f04e978deafba3d2bc913718a681d99c7c70d5015
-      - type: file
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/f35c9c9045da9faa3300f7635cc4ec34e3f168c3/flatpak/org._99managers.futsal-edition.desktop
-        sha256: b7e3d43e462f9155b2c2a88d873017d309884f3a07456a7aa394766f446fb85c
-      - type: file
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/7c2ba2d92c76b0f70751dbc0187d7af59c7ae4a9/flatpak/icon-256.png
-        sha256: 097bd7da0eb479510a35d4f59c202efe90fb71cc0a7984988c11f5d09a8f4f82
