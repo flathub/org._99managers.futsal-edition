@@ -26,14 +26,12 @@ modules:
     sources:
       # x86_64
       - type: archive
-        only-arches:
-          - x86_64
         strip-components: 0
         url: https://codeberg.org/dulvui/99managers-futsal-edition/releases/download/v0.9.3/99managers-futsal-edition-linux-x86-64.zip
         sha256: e17a9895dddfc81bd6377a5ac29b8fadd496392096d9d33c4d41c6f71403ea88
       - type: file
-        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/beb8ca7c404f0958938a8de298b896f99c17fe71/flatpak/org._99managers.futsal-edition.appdata.xml
-        sha256: 5c89c33363dd7b4e0afab01f04e978deafba3d2bc913718a681d99c7c70d5015
+        url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/82e481920a461fb37e77fb51dfede33f83528a3a/flatpak/org._99managers.futsal-edition.appdata.xml
+        sha256: 6c42dca2da2108b2e47a79e678c91ce3971f3d0af4255f99ba0157aa040ac391
       - type: file
         url: https://codeberg.org/dulvui/99managers-futsal-edition/raw/commit/f35c9c9045da9faa3300f7635cc4ec34e3f168c3/flatpak/org._99managers.futsal-edition.desktop
         sha256: b7e3d43e462f9155b2c2a88d873017d309884f3a07456a7aa394766f446fb85c
